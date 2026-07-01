@@ -1,2 +1,45 @@
-# Loan-Default-Predictor
-This project predicts whether a customer is likely to default on a loan using machine learning. It includes data preprocessing, handling an imbalanced dataset with SMOTE, training Logistic Regression and Random Forest models, and evaluating them using Precision, Recall, F1-Score, and Accuracy.
+# Loan Default Prediction using Machine Learning
+
+## About
+
+This is a machine learning project that predicts whether a customer will default on a loan. The project also shows why accuracy alone is not enough for imbalanced datasets.
+
+## Dataset
+
+* Give Me Some Credit (Kaggle)
+
+## Tools Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* SMOTE
+
+## Models
+
+* Logistic Regression
+* Random Forest
+
+## Evaluation Metrics
+
+* Accuracy
+* Precision
+* Recall
+* F1-Score
+* ROC-AUC
+
+## Project Structure
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Model Training
+* Model Evaluation
+* Model Comparison
+* Model Saving
+
+## Author
+
+Hitesha Kalwar
